@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1555502022 source:c:\users\desmond\documents\c++ projects\atm machine\main.cpp
+	<iostream>
+	<stdlib.h>
+	<windows.h>
+	<ctime>
+
+1555498422 source:e:\atm machine\main.cpp
+	<iostream>
+	<stdlib.h>
+	<windows.h>
+	<ctime>
+
